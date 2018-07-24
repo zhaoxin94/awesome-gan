@@ -58,7 +58,10 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
 
 # Other Resources
 [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+
 [GAN-Timeline](https://github.com/dongb5/GAN-Timeline)
+
 [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+
 [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
