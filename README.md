@@ -16,7 +16,7 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
     - [Domain Adaptation](#domain-adaptation)
     - [Semi-Supervised Learning](semi-supervised-learning)
     - [Low level Image process](low-level-image-process)
-    - [Text to Image](#Text to Image)
+    - [Text to Image](#text-to-image)
     - [object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
     - [Medical images](#medical-images)
