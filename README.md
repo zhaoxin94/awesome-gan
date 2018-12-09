@@ -20,8 +20,6 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
     - [Medical Images](#medical-images)
-      -[Survey](#survey)
-      -[Image Classification](#image-classification)
 - [Other Resources](#other-resources)
 
 # Papers
