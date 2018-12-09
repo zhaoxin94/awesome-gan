@@ -20,6 +20,8 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
     - [Medical Images](#medical-images)
+      -[Survey](#survey)
+      -[Image Classification](#image-classification)
 - [Other Resources](#other-resources)
 
 # Papers
@@ -54,7 +56,17 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
 
 ### Semantic Segmentation
 
+### Data Augmentation
+- Learning to Compose Domain-Specific Transformations for Data Augmentation[[NIPS2017]](https://papers.nips.cc/paper/6916-learning-to-compose-domain-specific-transformations-for-data-augmentation.pdf)
+- BAGAN: Data Augmentation with Balancing GAN [[arXiv 5 Jun 2018]](https://arxiv.org/abs/1803.09655v2)
+
 ### Medical Images
+#### Survey
+- Generative Adversarial Network in Medical Imaging: A Review [[arXiv 19 Sep 2018]](https://arxiv.org/abs/1809.07294v1)
+
+#### Image Classification
+- GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification [[arXiv 3 Mar 2018]](https://arxiv.org/abs/1803.01229)
+- Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification [[ISBI 2018]](https://arxiv.org/abs/1801.02385v1)
 
 # Other Resources
 [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
@@ -64,4 +76,6 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
 [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 
 [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+
+[Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
 
