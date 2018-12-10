@@ -20,6 +20,7 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
     - [Medical Images](#medical-images)
+    - [Others](#others)
 - [Other Resources](#other-resources)
 
 # Papers
@@ -68,6 +69,9 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
 
 #### Others
 - General-to-Detailed GAN for Infrequent Class Medical Images [[arXiv 28 Nov 2018]](https://arxiv.org/abs/1812.01690)
+
+### Others
+- MEAL: Multi-Model Ensemble via Adversarial Learning [[arXiv 6 Dec 2018]](https://arxiv.org/abs/1812.02425) [[Pytorch(official)]](https://github.com/AaronHeee/MEAL)
 
 # Other Resources
 [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
