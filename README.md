@@ -66,6 +66,9 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
 - GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification [[arXiv 3 Mar 2018]](https://arxiv.org/abs/1803.01229)
 - Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification [[ISBI 2018]](https://arxiv.org/abs/1801.02385v1)
 
+#### Others
+- General-to-Detailed GAN for Infrequent Class Medical Images [[arXiv 28 Nov 2018]](https://arxiv.org/abs/1812.01690)
+
 # Other Resources
 [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
