@@ -20,18 +20,18 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
     - [Medical Images](#medical-images)
-    - [Others](#others)
+    - [Other Applications](#other-applications)
 - [Other Resources](#other-resources)
 
 # Papers
 ## Overview
-
+How Generative Adversarial Networks and Their Variants Work: An Overview [[arXiv 13 Nov 2018]](https://arxiv.org/abs/1711.05914v9)
 ## GAN Theory
 
 ## Training GANs
 
 ## GAN Architectures
-
+- A Style-Based Generator Architecture for Generative Adversarial Networks [[arXiv 12 Dec 2018]](https://arxiv.org/abs/1812.04948v1)
 ## Conditional GANs
 
 ## Latent Space
@@ -70,7 +70,7 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
 #### Others
 - General-to-Detailed GAN for Infrequent Class Medical Images [[arXiv 28 Nov 2018]](https://arxiv.org/abs/1812.01690)
 
-### Others
+### Other Applications
 - MEAL: Multi-Model Ensemble via Adversarial Learning [[arXiv 6 Dec 2018]](https://arxiv.org/abs/1812.02425) [[Pytorch(official)]](https://github.com/AaronHeee/MEAL)
 
 # Other Resources
