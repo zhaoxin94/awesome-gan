@@ -29,6 +29,7 @@ How Generative Adversarial Networks and Their Variants Work: An Overview [[arXiv
 ## GAN Theory
 
 ## Training GANs
+Improved Techniques for Training GANs [[NIPS2016]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans) [[Pytorch]](https://github.com/Sleepychord/ImprovedGAN-pytorch)
 
 ## GAN Architectures
 - A Style-Based Generator Architecture for Generative Adversarial Networks [[arXiv 12 Dec 2018]](https://arxiv.org/abs/1812.04948v1)
