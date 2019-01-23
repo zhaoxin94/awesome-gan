@@ -10,12 +10,12 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
   - [Conditional GANs](#conditions=gans)
   - [Latent Space](#latent-space)
   - [Evaluation](#evaluation)
-  - [Applications Using GANs](applications-using-gans)
-    - [Image Synthesis](image-synthesis)
-    - [Image translation](image-translation)
+  - [Applications Using GANs](#applications-using-gans)
+    - [Image Synthesis](#image-synthesis)
+    - [Image translation](#image-translation)
     - [Domain Adaptation](#domain-adaptation)
-    - [Semi-Supervised Learning](semi-supervised-learning)
-    - [Low Level Image Process](low-level-image-process)
+    - [Semi-Supervised Learning](#semi-supervised-learning)
+    - [Low Level Image Process](#low-level-image-process)
     - [Text to Image](#text-to-image)
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
@@ -47,6 +47,12 @@ Improved Techniques for Training GANs [[NIPS2016]](https://papers.nips.cc/paper/
 ### Domain Adaptation
 
 ### Semi-supervised Learning
+
+- Good Semi-supervised Learning That Requires a Bad GAN [[NIPS2017]](http://papers.nips.cc/paper/7229-good-semi-supervised-learning-that-requires-a-bad-gan)
+- Triple Generative Adversarial Nets [[NIPS2017]](https://papers.nips.cc/paper/6997-triple-generative-adversarial-nets)
+- Improved Techniques for Training GANs [[NIPS2016]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)
+- Semi-Supervised Learning with Generative Adversarial Networks [[arXiv 2016]](https://arxiv.org/abs/1606.01583)
+- Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks [[arXiv 2015]](https://arxiv.org/abs/1511.06390) 
 
 ### Low Level Image Process
 
