@@ -10,6 +10,7 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
   - [Conditional GANs](#conditions=gans)
   - [Latent Space](#latent-space)
   - [Evaluation](#evaluation)
+  - [Others](#others)
   - [Applications Using GANs](#applications-using-gans)
     - [Image Synthesis](#image-synthesis)
     - [Image translation](#image-translation)
@@ -32,12 +33,16 @@ How Generative Adversarial Networks and Their Variants Work: An Overview [[arXiv
 Improved Techniques for Training GANs [[NIPS2016]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans) [[Pytorch]](https://github.com/Sleepychord/ImprovedGAN-pytorch)
 
 ## GAN Architectures
+- Domain Partitioning Network [[arXiv]](https://arxiv.org/abs/1902.08134v1)
 - A Style-Based Generator Architecture for Generative Adversarial Networks [[arXiv 12 Dec 2018]](https://arxiv.org/abs/1812.04948v1)
 ## Conditional GANs
 
 ## Latent Space
 
 ## Evaluation
+
+## Others
+Label-Removed Generative Adversarial Networks Incorporating with K-Means [[arXiv 19 Feb 2019]](https://arxiv.org/abs/1902.06938v1)
 
 ## Applications Using GANs
 ### Image Synthesis
