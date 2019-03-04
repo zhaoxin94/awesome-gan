@@ -15,6 +15,7 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
     - [Image Synthesis](#image-synthesis)
     - [Image translation](#image-translation)
     - [Domain Adaptation](#domain-adaptation)
+    - [Super Resolution](#)
     - [Semi-Supervised Learning](#semi-supervised-learning)
     - [Low Level Image Process](#low-level-image-process)
     - [Text to Image](#text-to-image)
@@ -50,6 +51,11 @@ Label-Removed Generative Adversarial Networks Incorporating with K-Means [[arXiv
 ### Image translation
 
 ### Domain Adaptation
+
+### Super-resolution
+- Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[CVPR2017]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf) [[Pytorch]](https://github.com/leftthomas/SRGAN) [[Pytorch]](https://github.com/aitorzip/PyTorch-SRGAN)
+- ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks [[ECCV2018 workshop]](https://arxiv.org/abs/1809.00219) [[Pytorch]](https://github.com/xinntao/ESRGAN)
+
 
 ### Semi-supervised Learning
 
