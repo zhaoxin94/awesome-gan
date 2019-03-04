@@ -15,7 +15,7 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
     - [Image Synthesis](#image-synthesis)
     - [Image translation](#image-translation)
     - [Domain Adaptation](#domain-adaptation)
-    - [Super Resolution](#)
+    - [Super Resolution](#super-resolution)
     - [Semi-Supervised Learning](#semi-supervised-learning)
     - [Low Level Image Process](#low-level-image-process)
     - [Text to Image](#text-to-image)
