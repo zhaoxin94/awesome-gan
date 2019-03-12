@@ -7,7 +7,7 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
   - [GAN Theory](#gan-theory)
   - [Training GANs](#training-gans)
   - [GAN Architectures](#gan-architectures)
-  - [Conditional GANs](#conditions=gans)
+  - [Conditional GANs](#conditions-gans)
   - [Latent Space](#latent-space)
   - [Evaluation](#evaluation)
   - [Others](#others)
@@ -24,18 +24,22 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
     - [Medical Images](#medical-images)
     - [Other Applications](#other-applications)
 - [Other Resources](#other-resources)
+- [Selected](#selected)
 
 # Papers
 ## Overview
-How Generative Adversarial Networks and Their Variants Work: An Overview [[arXiv 13 Nov 2018]](https://arxiv.org/abs/1711.05914v9)
+- How Generative Adversarial Networks and Their Variants Work: An Overview [[arXiv 13 Nov 2018]](https://arxiv.org/abs/1711.05914v9)
+
 ## GAN Theory
 
 ## Training GANs
-Improved Techniques for Training GANs [[NIPS2016]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans) [[Pytorch]](https://github.com/Sleepychord/ImprovedGAN-pytorch)
+- Improved Techniques for Training GANs [[NIPS2016]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans) [[Pytorch]](https://github.com/Sleepychord/ImprovedGAN-pytorch)
 
 ## GAN Architectures
 - Domain Partitioning Network [[arXiv]](https://arxiv.org/abs/1902.08134v1)
 - A Style-Based Generator Architecture for Generative Adversarial Networks [[arXiv 12 Dec 2018]](https://arxiv.org/abs/1812.04948v1)
+- Self-Attention Generative Adversarial Networks [[arXiv 21 May 2018]](https://arxiv.org/abs/1805.08318)
+
 ## Conditional GANs
 
 ## Latent Space
@@ -43,7 +47,8 @@ Improved Techniques for Training GANs [[NIPS2016]](https://papers.nips.cc/paper/
 ## Evaluation
 
 ## Others
-Label-Removed Generative Adversarial Networks Incorporating with K-Means [[arXiv 19 Feb 2019]](https://arxiv.org/abs/1902.06938v1)
+- Self-Supervised Generative Adversarial Networks [[CVPR2019]](https://arxiv.org/pdf/1811.11212.pdf)
+- Label-Removed Generative Adversarial Networks Incorporating with K-Means [[arXiv 19 Feb 2019]](https://arxiv.org/abs/1902.06938v1)
 
 ## Applications Using GANs
 ### Image Synthesis
@@ -89,7 +94,7 @@ Label-Removed Generative Adversarial Networks Incorporating with K-Means [[arXiv
 - General-to-Detailed GAN for Infrequent Class Medical Images [[arXiv 28 Nov 2018]](https://arxiv.org/abs/1812.01690)
 
 ### Other Applications
-- MEAL: Multi-Model Ensemble via Adversarial Learning [[arXiv 6 Dec 2018]](https://arxiv.org/abs/1812.02425) [[Pytorch(official)]](https://github.com/AaronHeee/MEAL)
+- MEAL: Multi-Model Ensemble via Adversarial Learning [[AAAI2019]](https://arxiv.org/abs/1812.02425) [[Pytorch(official)]](https://github.com/AaronHeee/MEAL)
 
 # Other Resources
 [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
@@ -102,3 +107,7 @@ Label-Removed Generative Adversarial Networks Incorporating with K-Means [[arXiv
 
 [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
 
+# Selected
+- A Style-Based Generator Architecture for Generative Adversarial Networks [[arXiv 12 Dec 2018]](https://arxiv.org/abs/1812.04948v1)
+- Supervised Generative Adversarial Networks [[CVPR2019]](https://arxiv.org/pdf/1811.11212.pdf)
+- Self-Attention Generative Adversarial Networks [[arXiv 21 May 2018]](https://arxiv.org/abs/1805.08318)
