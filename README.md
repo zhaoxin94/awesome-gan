@@ -52,8 +52,10 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
 
 ## Applications Using GANs
 ### Image Synthesis
+- Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis [[CVPR2019]](https://arxiv.org/abs/1903.05628v1)
 
 ### Image translation
+- CollaGAN : Collaborative GAN for Missing Image Data Imputation [[CVPR2019]](https://arxiv.org/abs/1901.09764)
 
 ### Domain Adaptation
 
