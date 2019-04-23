@@ -7,7 +7,7 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
   - [GAN Theory](#gan-theory)
   - [Training GANs](#training-gans)
   - [GAN Architectures](#gan-architectures)
-  - [Conditional GANs](#conditions-gans)
+  - [Conditional GANs](#conditional-gans)
   - [Latent Space](#latent-space)
   - [Evaluation](#evaluation)
   - [Others](#others)
@@ -41,7 +41,10 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
 - Self-Attention Generative Adversarial Networks [[arXiv 21 May 2018]](https://arxiv.org/abs/1805.08318)
 
 ## Conditional GANs
-
+- Diversity-Sensitive Conditional Generative Adversarial Networks  [[ICLR2019]](https://openreview.net/forum?id=rJliMh09F7)
+- Robust Conditional Generative Adversarial Networks [[ICLR2019]](https://openreview.net/forum?id=Byg0DsCqYQ)
+- Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation [[ICLR2019]](https://openreview.net/forum?id=HJxyAjRcFX)
+- cGANs with Projection Discriminator [[ICLR2018]](https://openreview.net/forum?id=ByS1VpgRZ)
 ## Latent Space
 
 ## Evaluation
