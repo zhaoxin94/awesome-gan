@@ -78,6 +78,7 @@ This repo is a collection of AWESOME things about Generative Adversarial Network
 ### Low Level Image Process
 
 ### Text to Image
+- Generative Adversarial Text to Image Synthesis [[ICML2016]](http://proceedings.mlr.press/v48/reed16.pdf) [[Pytorch]](https://github.com/aelnouby/Text-to-Image-Synthesis)
 
 ### Object Detection
 
